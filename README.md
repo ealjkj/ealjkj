@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jorge Ballote (@ealjkj) 
-- 👀 I’m interested in Machine learning and Data Science
+- 👀 I’m interested in Web Development and also Machine learning and Data Science.
 - 📫 How to reach me: ealjkj@gmail.com
 
 <!---
